@@ -2,6 +2,7 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.print.PrinterException;
+import java.awt.*;
 import java.io.*;
 
 public class SimpleTextEditor  implements ActionListener{
